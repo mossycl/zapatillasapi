@@ -1,8 +1,11 @@
 const express = require("express");
 const app = express();
 const port = 3001;
+const cors = require("cors");
 
 const { getZapatillas, getZapatillaById, getZapatillaByName, getZapatillaByBrand, getZapatillasByTag, filterByPrice } = require("./controller/getZapatillas");
+
+app.use(cors());
 
 app.get("/", getZapatillas);
 
