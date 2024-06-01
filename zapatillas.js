@@ -40,13 +40,13 @@ const zapatillas = [{
     },
     {
         "id" : 5,
-        "name" : "Jordan Lil Drip",
-        "brand" : "Nike",
-        "price" : 61990,
-        "desc" : "Con textiles resistentes y materiales repelentes al agua donde hacen falta, estas botas flexibles están hechas para la aventura. A tu pequeño explorador le gusta hacer las cosas por sí solo, así que diseñamos asas para que sea muy fácil poner estas botas. La suela de goma, con tracción inspirada en los neumáticos de los camiones tipo monster truck, les da el agarre que necesitan para parques infantiles, aceras y lugares fangosos. Ensuciarse nunca se vio tan bien.¡Salpica, salpica!",
-        "sizes" : [39,40,41,43,44,45],
-        "img" : "",
-        "tag" : ["unisex", "zapatillas"]
+        "name" : "Mujer ForeverRun NITRO",
+        "brand" : "Puma",
+        "price" : 139990,
+        "desc" : "Las ForeverRun NITRO inauguran una nueva era en cuanto a sujeción y constituyen un referente para todos los corredores gracias a su mediasuela NITRO completa, que proporciona suavidad sin comprometer la estabilidad. Su mediasuela NITRO de reciente desarrollo cuenta con dos densidades diferentes con un centro más suave y un contorno más firme. Además, poseen un refuerzo asimétrico en el talón para mantener el pie firme a cada paso que das. El diseño se extiende por la suela exterior gracias al segmento de goma más ancho en el medio que estabiliza la pronación. En pocas palabras, son la combinación perfecta de sujeción y amortiguación.",
+        "sizes" : [38,39,40,41,42],
+        "img" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/377758/16/sv01/fnd/CHL/w/1000/h/1000/fmt/png",
+        "tag" : ["mujer", "zapatillas"]
     },
     {
         "id" : 6,
@@ -86,6 +86,16 @@ const zapatillas = [{
         "desc" : "Zapatillas para combinar con tu ropa favorita. Estilo Unisex, para elegir tu talla por favor asegúrate viendo los centímetros en nuestra guía de tallas.",
         "sizes" : [39,40,41,43,44,45],
         "img" : "/assets/img/dc/dc-court-graffic.jpg",
+        "tag" : ["unisex", "zapatillas"]
+    },
+    {
+        "id" : 10,
+        "name" : "Zapatillas RS-X Efekt PRM",
+        "brand" : "Puma",
+        "price" : 109990,
+        "desc" : "Las RS-X han vuelto. La silueta retrofuturista de estas zapatillas regresa con una estética progresiva y detalles angulares, que se completan con capas de nobuk y ante superpuestas. La combinación crea un diseño rompedor acorde con tu estilo rompedor.",
+        "sizes" : [39,40,41,43,44],
+        "img" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/390776/24/fnd/CHL/w/1000/h/1000/fmt/png",
         "tag" : ["unisex", "zapatillas"]
     },
 ];
