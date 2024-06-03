@@ -1,5 +1,5 @@
 const zapatillas = [{
-        "id" : 1,
+        "id" : 1001,
         "name" : "Air Jordan 4 Retro 'Bred Reimagined'",
         "brand" : "Nike",
         "price" : 162990,
@@ -9,7 +9,7 @@ const zapatillas = [{
         "tag" : ["unisex", "zapatillas"]
     },
     {
-        "id" : 2,
+        "id" : 1002,
         "name" : "Nike Air Force 1",
         "brand" : "Nike",
         "price" : 88990,
@@ -19,7 +19,7 @@ const zapatillas = [{
         "tag" : ["unisex", "zapatillas"]
     },
     {
-        "id" : 3,
+        "id" : 1003,
         "name" : "Nike Dunk Low",
         "brand" : "Nike",
         "price" : 104990,
@@ -29,7 +29,7 @@ const zapatillas = [{
         "tag" : ["unisex", "zapatillas"]
     },
     {
-        "id" : 4,
+        "id" : 1004,
         "name" : "Jordan Lil Drip",
         "brand" : "Nike",
         "price" : 61990,
@@ -39,7 +39,7 @@ const zapatillas = [{
         "tag" : ["niño", "zapatillas"]
     },
     {
-        "id" : 5,
+        "id" : 1005,
         "name" : "Mujer ForeverRun NITRO",
         "brand" : "Puma",
         "price" : 139990,
@@ -49,7 +49,7 @@ const zapatillas = [{
         "tag" : ["mujer", "zapatillas"]
     },
     {
-        "id" : 6,
+        "id" : 1006,
         "name" : "Vans Old Skool Black",
         "brand" : "Vans",
         "price" : 64990,
@@ -59,7 +59,7 @@ const zapatillas = [{
         "tag" : ["unisex", "zapatillas"]
     },
     {
-        "id" : 7,
+        "id" : 1007,
         "name" : "Old Skool Bolt 2-Tone Black/True White",
         "brand" : "Vans",
         "price" : 74990,
@@ -69,7 +69,7 @@ const zapatillas = [{
         "tag" : ["unisex", "zapatillas"]
     },
     {
-        "id" : 8,
+        "id" : 1008,
         "name" : "Adizero Boston 12",
         "brand" : "Adidas",
         "price" : 74990,
@@ -79,7 +79,7 @@ const zapatillas = [{
         "tag" : ["unisex", "zapatillas"]
     },
     {
-        "id" : 9,
+        "id" : 1009,
         "name" : "Zapatilla Court Graffik",
         "brand" : "DC",
         "price" : 74990,
@@ -89,7 +89,7 @@ const zapatillas = [{
         "tag" : ["unisex", "zapatillas"]
     },
     {
-        "id" : 10,
+        "id" : 1010,
         "name" : "Zapatillas RS-X Efekt PRM",
         "brand" : "Puma",
         "price" : 109990,
